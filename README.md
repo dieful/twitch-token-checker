@@ -25,7 +25,7 @@ Takes about 20 seconds to check 1,000 tokens (50 per sec)
 Speed can vary depending on your PC but overall its fast
 ## Token Format
 
-Tokens should simply be in a row
+Tokens should simply be in a row , which is also how it will write all the valid ones.
 
 ex;
 
@@ -40,6 +40,6 @@ Script uses Tkinter to open txt files, that way its more easier and convient to 
 
 Star if you like this project
 
-[![Star on Github](https://img.shields.io/github/stars/<your-username>/<your-repo-name>?style=social)](https://github.com/<your-username>/<your-repo-name>/stargazers)
+[![Star on Github](https://img.shields.io/github/stars/<dieful>/<twitch-token-checker>?style=social)](https://github.com/<dieful>/<twitch-token-checker>/stargazers)
 
 ## Star appreciated 😃❤️ 
