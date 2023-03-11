@@ -72,11 +72,14 @@ def main():
     print(f"    [ {Fore.MAGENTA} Tokens To Check {Fore.RESET} ] ")
     sleep(1)
     tokens_file_path = filedialog.askopenfilename(title="CHOOSE THE TOKENS YOU WANT TO CHECK", filetypes=[('Text files', '*.txt')])
-    print(f"    [ {Fore.MAGENTA} Valid Tokens File{Fore.RESET} ]")
+    print(f"    [ {Fore.MAGENTA} File To Save Valid Tokens in{Fore.RESET} ]")
     sleep(2)
     valid_tokens_file_path = filedialog.askopenfilename(title="FILE TO WRITE VALID TOKENS IN", filetypes=[('Text files', '*.txt')])
+    with open(tokens_file_path.replace("/", "\\"), 'r') as f:
+        tokens = f.read().splitlines()
+    print(f'    [ {Fore.YELLOW} {len(tokens)} {Fore.RESET}Tokens Loaded ] ')
     check_tokens(tokens_file_path, valid_tokens_file_path)
-
+   
 
 os.system('title Twitch Token Checker')
 Thread(target=main).start()
