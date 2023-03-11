@@ -40,6 +40,6 @@ Script uses Tkinter to open txt files, that way its more easier and convient to 
 
 Star if you like this project
 
-[![Star on Github](https://img.shields.io/github/stars/<dieful>/<twitch-token-checker>?style=social)](https://github.com/<dieful>/<twitch-token-checker>/stargazers)
+[![Star on Github](https://img.shields.io/github/stars/dieful/twitch-token-checker?style=for=the-badge)]
 
 ## Star appreciated 😃❤️ 
