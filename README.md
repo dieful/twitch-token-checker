@@ -23,10 +23,18 @@ pip install colorama
 Takes about 20 seconds to check 1,000 tokens (50 per sec)
 
 Speed can vary depending on your PC but overall its fast
+## Token Format
 
-## Additonal-Info
+Tokens should simply be in a row
 
-Script uses Tkinter to open txt files, that way its more easier and convient to load up the additional files needed.
+ex;
+
+![image](https://user-images.githubusercontent.com/126424282/224513717-e2cc3986-40d7-45bf-a51f-52a356eeef96.png)
+
+
+
+## Additional Info
+Script uses Tkinter to open txt files, that way its more easier and convient to load up the additional files needed and.
 
 ## Star
 
