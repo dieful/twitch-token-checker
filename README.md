@@ -3,13 +3,6 @@
 
 ![image_2023-03-11_134838182](https://user-images.githubusercontent.com/126424282/224512937-ae8fc28b-55fc-4f44-bdf1-3c6e67775f96.png)
 
-## Table of Contents
-
-- [Usage](#usage)
-- [Requirements](#Requirements)
-- [How Fast Is It?](#Power)
-- [Extra Info](#Additonal-Info)
- 
 
 ## Requirements
 
@@ -35,5 +28,10 @@ Speed can vary depending on your PC but overall its fast
 
 Script uses Tkinter to open txt files, that way its more easier and convient to load up the additional files needed.
 
+## Star
 
-## Star appreciated 😃 
+Star if you like this project
+
+[![Star on Github](https://img.shields.io/github/stars/<your-username>/<your-repo-name>?style=social)](https://github.com/<your-username>/<your-repo-name>/stargazers)
+
+## Star appreciated 😃❤️ 
