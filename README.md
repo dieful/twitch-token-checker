@@ -25,7 +25,7 @@ Takes about 20 seconds to check 1,000 tokens (50 per sec)
 Speed can vary depending on your PC but overall its fast
 ## Token Format
 
-Tokens should simply be in a row , which is also how it will write all the valid ones.
+Tokens should simply be in a row , which is also how it will save all the valid ones.
 
 ex;
 
