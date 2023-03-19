@@ -1,5 +1,4 @@
 # Twitch Token Checker
-# Made By elf#0002 and fapd#0001
 
 ![image_2023-03-11_134838182](https://user-images.githubusercontent.com/126424282/224512937-ae8fc28b-55fc-4f44-bdf1-3c6e67775f96.png)
 
