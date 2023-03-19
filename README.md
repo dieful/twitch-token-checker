@@ -33,7 +33,7 @@ ex;
 
 
 ## Additional Info
-Script uses Tkinter to open txt files, that way its more easier and convient to load up the additional files needed and.
+Script uses Tkinter to open txt files, that way its more easier and convient to load up the additional files needed.
 
 ## Star
 
